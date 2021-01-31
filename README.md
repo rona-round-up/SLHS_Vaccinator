@@ -18,7 +18,7 @@ The game can be found in relases where you can directly download it. The pitch i
 - There are 4 types of enemies
   - Basic enemy- most basic enemy
   - Flying enemy- flies at the player to attack them
-  - Launching enemy- flies at the player
+  - Launching enemy- jumps at the player
   - Splitting enemy- once killed it splits into basic enemies
 - You start at a 100% health then you get hit for an amount of damage that varies depending on the enemy that was hit
 - You can get health back by killing an enemy and getting a percentage of their health.
