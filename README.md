@@ -8,3 +8,13 @@ The game can be found in relases where you can directly download it. The pitch i
 ## System Requirements
 * Windows Computer
 * A screen with an aspect ratio of 16:9
+## Gameplay
+* Once the game is opened the game will start and it will start out slow
+* You move with the arrow keys
+* Once you die there will be an end screen where you can restart the game
+* Enemies are generated randomly
+* There are 4 types of enemies
+** Basic enemy- most basic enemy
+** Flying enemy- flies at the player to attack them
+** Launching enemy- flies at the player
+** Splitting enemy- once killed it splits into basic enemies
