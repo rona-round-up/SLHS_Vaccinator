@@ -25,4 +25,4 @@ The game can be found in relases where you can directly download it. The pitch i
 - You can get health back by killing an enemy and getting a percentage of their health.
 - There is a random chance of you dying everytime you're hit
 - The chance increases by 5% evertime you're hit
-- As you kill enemies the chances go down
+- As you kill enemies the chances of random death go down
