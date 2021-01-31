@@ -21,8 +21,7 @@ The game can be found in relases where you can directly download it. The pitch i
   - Flying enemy- flies at the player to attack them
   - Launching enemy- jumps at the player
   - Splitting enemy- once killed it splits into basic enemies
-- You start at a 100% health then you get hit for an amount of damage that varies depending on the enemy that was hit
 - You can get health back by killing an enemy and getting a percentage of their health.
 - There is a random chance of you dying everytime you're hit
-- The chance increases by 5% evertime you're hit
+- The chance increases by 5% evertime you're hit starting from 0%
 - As you kill enemies the chances of random death go down
