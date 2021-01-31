@@ -15,6 +15,7 @@ The game can be found in relases where you can directly download it. The pitch i
 - Once you die there will be an end screen where you can restart the game
 - You can shoot your vaccine gun by using the mouse button
 - Enemies are generated randomly
+- Enemies have different amounts of health
 - There are 4 types of enemies
   - Basic enemy- most basic enemy
   - Flying enemy- flies at the player to attack them
@@ -22,3 +23,6 @@ The game can be found in relases where you can directly download it. The pitch i
   - Splitting enemy- once killed it splits into basic enemies
 - You start at a 100% health then you get hit for an amount of damage that varies depending on the enemy that was hit
 - You can get health back by killing an enemy and getting a percentage of their health.
+- There is a random chance of you dying everytime you're hit
+- The chance increases by 5% evertime you're hit
+- As you kill enemies the chances go down
