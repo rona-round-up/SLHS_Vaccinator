@@ -5,6 +5,8 @@ Lakshay Gupta, Giancarlo Massimo, and Ausmit Mondal
 We created a Unity game written in C# where the player fights waves of different types of viruses. We created all sprites and code for this game
 ## Instructions:
 The game can be found in relases where you can directly download it. The pitch is a video link that can be found in videoPitch.txt
+
+To play the game, download the zip file and extract it. Run the exe file.
 ## System Requirements
 * Windows Computer
 * A screen with an aspect ratio of 16:9
