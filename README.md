@@ -6,8 +6,9 @@ We created a Unity game written in C# where the player fights waves of different
 ## Instructions:
 The game can be found in relases where you can directly download it. The pitch is a video link that can be found in videoPitch.txt
 
-To play the game, download the zip file and extract it. Run the exe file found in the extracted file.
+To play the game, download the zip file named source code and extract it. Run the exe file found in the extracted file.
 ## System Requirements
+* The ability to extract zip code files
 * Windows Computer
 * A screen with an aspect ratio of 16:9
 ## Gameplay
